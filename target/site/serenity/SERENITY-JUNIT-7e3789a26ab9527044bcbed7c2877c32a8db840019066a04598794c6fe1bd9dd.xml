@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Latest articles" skipped="0" tests="1" time="26.69" timestamp="2021-03-01 09:57:47"><testcase name=""><error type="java.lang.reflect.InvocationTargetException"/><system-err>null&#13;
+com.google.common.collect.SingletonImmutableBiMap.forEach(SingletonImmutableBiMap.java:65)&#13;
+com.qa.pages.HomePage.selectMenuOption(HomePage.java:111)&#13;
+stepdefinations.LatestArticlesStepdefination.selects_menu_option(LatestArticlesStepdefination.java:16)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
